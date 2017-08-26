@@ -1,4 +1,4 @@
-# Simplify3D gcode convert autoprint.gcode for Kodama Trinus
+# Convert autoprint.gcode for Kodama Trinus
 
 Convert gcode output from Simplify3D to autoprint.gcode that Kodama Trinus can print from SD card
 
