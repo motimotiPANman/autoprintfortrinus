@@ -1,0 +1,1 @@
+findstr /BV ; %1 >> autoprint.gcode
